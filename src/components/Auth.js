@@ -79,7 +79,7 @@ const Auth = () => {
   return (
     <>
       <nav>
-          <h1>Casa Comfort</h1>
+          <h1>Blink that</h1>
       </nav>
       <div className="container">
         <div className="form-container">
